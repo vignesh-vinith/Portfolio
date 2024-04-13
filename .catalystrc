@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "3949000000005069",
+      "name": "vickyswebworks",
+      "domain": {
+        "id": "50018813505",
+        "name": "vickyswebworks-60028633339.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028633339",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
